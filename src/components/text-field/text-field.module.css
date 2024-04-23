@@ -3,6 +3,7 @@
 	position: relative;
 	width: 100%;
 }
+
 .textfield_label textarea {
 	min-height: 200px;
 	max-height: 200px;
@@ -14,6 +15,7 @@
 }
 
 .textfield_input {
+	border: 1px solid #c5c5c5;
 	background-color: #fff;
 	color: #000;
 	height: 48px;
